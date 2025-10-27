@@ -1,6 +1,15 @@
 {
   "navigationItems": [
     {
+      "id": "1761542084041",
+      "title": "重装系统",
+      "icon": "FolderKanban",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
+    },
+    {
       "id": "1",
       "title": "常用推荐",
       "icon": "Star",
@@ -1348,15 +1357,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "1761542084041",
-      "title": "重装系统",
-      "icon": "FolderKanban",
-      "description": "",
-      "enabled": true,
-      "items": [],
-      "subCategories": []
     }
   ]
 }
