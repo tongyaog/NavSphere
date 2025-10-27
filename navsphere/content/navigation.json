@@ -14,6 +14,14 @@
           "description": "A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free. - Releases · chen08209/FlClash",
           "icon": "/assets/favicon_1761542401766.png",
           "enabled": true
+        },
+        {
+          "id": "site_1761543104314_rcgh3v74p",
+          "title": "Geek Uninstaller - the best FREE uninstaller",
+          "href": "https://geekuninstaller.com/",
+          "description": "Efficient and Fast, Small and Portable. 100% Free",
+          "icon": "/assets/favicon_1761543098038.png",
+          "enabled": true
         }
       ],
       "subCategories": []
