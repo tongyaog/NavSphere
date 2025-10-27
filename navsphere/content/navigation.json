@@ -201,7 +201,16 @@
       "icon": "FolderKanban",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "site_1761546563324_9nuuc1eem",
+          "title": "HuLa im项目",
+          "href": "https://gitee.com/HuLaSpark/HuLa",
+          "description": "HuLa im项目",
+          "icon": "/assets/favicon_1761546528499.png",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     },
     {
