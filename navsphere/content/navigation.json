@@ -54,6 +54,14 @@
           "description": "Bandizip official download page",
           "icon": "/assets/favicon_1761544707353.png",
           "enabled": true
+        },
+        {
+          "id": "site_1761544757653_ril879waf",
+          "title": "Armoury Crate",
+          "href": "https://www.asus.com.cn/supportonly/armoury%20crate/helpdesk_download/",
+          "description": "Armoury Crate",
+          "icon": "/assets/favicon_1761544740224.png",
+          "enabled": true
         }
       ],
       "subCategories": []
