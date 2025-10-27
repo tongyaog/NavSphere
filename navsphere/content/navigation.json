@@ -38,6 +38,14 @@
           "description": "音效",
           "icon": "/assets/favicon_1761544392127.png",
           "enabled": true
+        },
+        {
+          "id": "site_1761544693470_yfhmoegsz",
+          "title": "VMware",
+          "href": "https://support.broadcom.com/group/ecx/productdownloads?subfamily=VMware%20Workstation%20Pro&freeDownloads=true",
+          "description": "VMware",
+          "icon": "/assets/favicon_1761544664002.ico",
+          "enabled": true
         }
       ],
       "subCategories": []
