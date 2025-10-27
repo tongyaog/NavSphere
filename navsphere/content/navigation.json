@@ -76,7 +76,7 @@
           "title": "QQ Windows版-轻松做自己",
           "href": "https://im.qq.com/pcqq/index.shtml",
           "description": "QQ Windows版 全新升级。沟通更便捷，功能更全面，不一样的QQ为你而来。",
-          "icon": "https://im.qq.com/./images/windows/short_icon.ico",
+          "icon": "/assets/favicon_1761547853265.png",
           "enabled": true
         },
         {
