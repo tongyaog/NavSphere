@@ -1348,6 +1348,15 @@
           ]
         }
       ]
+    },
+    {
+      "id": "1761542084041",
+      "title": "重装系统",
+      "icon": "FolderKanban",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
