@@ -62,6 +62,14 @@
           "description": "Armoury Crate",
           "icon": "/assets/favicon_1761544740224.png",
           "enabled": true
+        },
+        {
+          "id": "site_1761544782008_znrzd9hj1",
+          "title": "微信，是一个生活方式",
+          "href": "https://weixin.qq.com/",
+          "description": "一款跨平台的通讯工具。支持单人、多人参与。通过手机网络发送语音、图片、视频和文字。",
+          "icon": "/assets/favicon_1761544773293.png",
+          "enabled": true
         }
       ],
       "subCategories": []
