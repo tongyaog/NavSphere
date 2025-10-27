@@ -102,6 +102,14 @@
           "description": "Steam is the ultimate destination for playing, discussing, and creating games.",
           "icon": "/assets/favicon_1761544822397.png",
           "enabled": true
+        },
+        {
+          "id": "site_1761544844916_4jdi4e5q3",
+          "title": "Pixpin",
+          "href": "https://pixpin.cn/",
+          "description": "访问 pixpin.cn",
+          "icon": "/assets/favicon_1761544838127.png",
+          "enabled": true
         }
       ],
       "subCategories": []
