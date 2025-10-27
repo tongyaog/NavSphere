@@ -30,6 +30,14 @@
           "description": "国际版",
           "icon": "/assets/favicon_1761544363863.png",
           "enabled": true
+        },
+        {
+          "id": "site_1761544406947_krazf5i2z",
+          "title": "Boost Volume and Sound Quality on Your PC - FxSound",
+          "href": "https://www.fxsound.com/",
+          "description": "音效",
+          "icon": "/assets/favicon_1761544392127.png",
+          "enabled": true
         }
       ],
       "subCategories": []
