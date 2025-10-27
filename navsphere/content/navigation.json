@@ -110,6 +110,14 @@
           "description": "访问 pixpin.cn",
           "icon": "/assets/favicon_1761544838127.png",
           "enabled": true
+        },
+        {
+          "id": "site_1761544858786_3oy3yka32",
+          "title": "WPS-支持多人在线协作编辑Word、Excel和PPT文档_WPS官方网站",
+          "href": "https://www.wps.cn/",
+          "description": "金山文档,全新一代云Office办公软件,支持多人在线协同办公,实时协作，并设置文档访问、编辑权限。独有内容级安全，全程留痕可追溯.PC/移动双端覆盖,随时随地在线协同办公,在线文档即写即存统一管理,高效共享文档、表格。",
+          "icon": "/assets/favicon_1761544850169.png",
+          "enabled": true
         }
       ],
       "subCategories": []
