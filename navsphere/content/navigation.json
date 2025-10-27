@@ -70,6 +70,14 @@
           "description": "一款跨平台的通讯工具。支持单人、多人参与。通过手机网络发送语音、图片、视频和文字。",
           "icon": "/assets/favicon_1761544773293.png",
           "enabled": true
+        },
+        {
+          "id": "site_1761544795485_t4m169xez",
+          "title": "QQ Windows版-轻松做自己",
+          "href": "https://im.qq.com/pcqq/index.shtml",
+          "description": "QQ Windows版 全新升级。沟通更便捷，功能更全面，不一样的QQ为你而来。",
+          "icon": "https://im.qq.com/./images/windows/short_icon.ico",
+          "enabled": true
         }
       ],
       "subCategories": []
