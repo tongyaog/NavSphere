@@ -6,7 +6,16 @@
       "icon": "FolderKanban",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "site_1761542416360_i19wjpiet",
+          "title": "FlClash · GitHub",
+          "href": "https://github.com/chen08209/FlClash/releases",
+          "description": "A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free. - Releases · chen08209/FlClash",
+          "icon": "/assets/favicon_1761542401766.png",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     },
     {
