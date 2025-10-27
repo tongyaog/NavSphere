@@ -174,6 +174,14 @@
           "description": "买断制多人动作竞技端游《永劫无间》官网现已开启游戏下载，预购游戏最高立省96元，预购即送全新英雄妖刀姬+绝版皮肤。",
           "icon": "/assets/favicon_1761544988201.png",
           "enabled": true
+        },
+        {
+          "id": "site_1761545016028_7030ogli7",
+          "title": "米哈游",
+          "href": "https://launcher.mihoyo.com/",
+          "description": "米哈游",
+          "icon": "/assets/favicon_1761545001568.png",
+          "enabled": true
         }
       ],
       "subCategories": []
