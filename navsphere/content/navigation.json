@@ -217,6 +217,14 @@
           "description": "HuLa im后端项目",
           "icon": "/assets/favicon_1761546528499.png",
           "enabled": true
+        },
+        {
+          "id": "site_1761546765558_2v074w5kh",
+          "title": "芋道vben5",
+          "href": "https://gitee.com/yudaocode/yudao-ui-admin-vben",
+          "description": "芋道vben5",
+          "icon": "/assets/favicon_1761546695009.png",
+          "enabled": true
         }
       ],
       "subCategories": []
