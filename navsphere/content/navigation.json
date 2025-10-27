@@ -1535,6 +1535,15 @@
           ]
         }
       ]
+    },
+    {
+      "id": "1761546453483",
+      "title": "常用网站",
+      "icon": "LayoutGrid",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
