@@ -78,6 +78,14 @@
           "description": "QQ Windows版 全新升级。沟通更便捷，功能更全面，不一样的QQ为你而来。",
           "icon": "https://im.qq.com/./images/windows/short_icon.ico",
           "enabled": true
+        },
+        {
+          "id": "site_1761544803195_spz6e4ubr",
+          "title": "主页 - Epic Games",
+          "href": "https://www.epicgames.com/site/zh-CN/home/",
+          "description": "We develop cutting-edge games and cross-platform game engine technology!",
+          "icon": "/assets/favicon_1761544796958.ico",
+          "enabled": true
         }
       ],
       "subCategories": []
