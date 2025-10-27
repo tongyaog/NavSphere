@@ -22,6 +22,14 @@
           "description": "卸载",
           "icon": "/assets/favicon_1761543098038.png",
           "enabled": true
+        },
+        {
+          "id": "site_1761544383679_01efp6xwc",
+          "title": "TRAE",
+          "href": "https://www.trae.ai/",
+          "description": "国际版",
+          "icon": "/assets/favicon_1761544363863.png",
+          "enabled": true
         }
       ],
       "subCategories": []
