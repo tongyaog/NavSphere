@@ -225,6 +225,14 @@
           "description": "芋道vben5",
           "icon": "/assets/favicon_1761546695009.png",
           "enabled": true
+        },
+        {
+          "id": "site_1761546812948_66r1jgqrp",
+          "title": "芋道【精简版】cloud-mini",
+          "href": "https://gitee.com/yudaocode/yudao-cloud-mini",
+          "description": "芋道【精简版】cloud-mini",
+          "icon": "/assets/favicon_1761546782500.png",
+          "enabled": true
         }
       ],
       "subCategories": []
