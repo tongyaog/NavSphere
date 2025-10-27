@@ -126,6 +126,14 @@
           "description": "语雀",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.yuque.com",
           "enabled": true
+        },
+        {
+          "id": "site_1761544924353_iwgoaoff4",
+          "title": "idm",
+          "href": "https://www.internetdownloadmanager.com/",
+          "description": "下载",
+          "icon": "/assets/favicon_1761544890276.png",
+          "enabled": true
         }
       ],
       "subCategories": []
