@@ -196,6 +196,15 @@
       "subCategories": []
     },
     {
+      "id": "1761546480173",
+      "title": "开发项目",
+      "icon": "FolderKanban",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
+    },
+    {
       "id": "1",
       "title": "常用推荐",
       "icon": "Star",
@@ -292,15 +301,6 @@
       "subCategories": [],
       "description": "",
       "enabled": true
-    },
-    {
-      "id": "1761546480173",
-      "title": "开发项目",
-      "icon": "FolderKanban",
-      "description": "",
-      "enabled": true,
-      "items": [],
-      "subCategories": []
     },
     {
       "id": "9",
