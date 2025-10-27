@@ -46,6 +46,14 @@
           "description": "VMware",
           "icon": "/assets/favicon_1761544664002.ico",
           "enabled": true
+        },
+        {
+          "id": "site_1761544717048_2kuleuxxo",
+          "title": "Bandizip",
+          "href": "https://www.bandisoft.com/bandizip/",
+          "description": "Bandizip official download page",
+          "icon": "/assets/favicon_1761544707353.png",
+          "enabled": true
         }
       ],
       "subCategories": []
