@@ -198,7 +198,7 @@
           "title": "控制台-糖糕云",
           "href": "https://panel.candycake.cloud/server/b6a13995",
           "description": "控制台-糖糕云",
-          "icon": "https://www.google.com/s2/favicons?sz=128&domain=panel.candycake.cloud",
+          "icon": "https://panel.candycake.cloud/favicons/favicon-32x32.png",
           "enabled": true
         }
       ],
