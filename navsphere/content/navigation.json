@@ -8,14 +8,6 @@
       "enabled": true,
       "items": [
         {
-          "id": "site_1761544816072_ptmd70rul",
-          "title": "WeGame",
-          "href": "https://www.wegame.com.cn/home/",
-          "description": "WeGame是中国最大的PC游戏平台。我们致力于给玩家带来更多高品质游戏和更好游玩体验，为开发者和运营商提供全生命周期的游戏发行和运营服务。一起玩，才更好玩。",
-          "icon": "/assets/favicon_1761544809707.png",
-          "enabled": true
-        },
-        {
           "id": "site_1761544831970_3g5lcx2e6",
           "title": "欢迎来到 Steam",
           "href": "https://store.steampowered.com/",
@@ -208,6 +200,14 @@
               "href": "https://www.epicgames.com/site/zh-CN/home/",
               "description": "We develop cutting-edge games and cross-platform game engine technology!",
               "icon": "/assets/favicon_1761544796958.ico",
+              "enabled": true
+            },
+            {
+              "id": "site_1761544816072_ptmd70rul",
+              "title": "WeGame",
+              "href": "https://www.wegame.com.cn/home/",
+              "description": "WeGame是中国最大的PC游戏平台。我们致力于给玩家带来更多高品质游戏和更好游玩体验，为开发者和运营商提供全生命周期的游戏发行和运营服务。一起玩，才更好玩。",
+              "icon": "/assets/favicon_1761544809707.png",
               "enabled": true
             }
           ]
