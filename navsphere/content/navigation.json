@@ -184,7 +184,16 @@
           "enabled": true
         }
       ],
-      "subCategories": []
+      "subCategories": [
+        {
+          "id": "a25c0acf-ebdc-43d4-bba8-3c75c56729be",
+          "title": "日常软件",
+          "icon": "Home",
+          "description": "",
+          "enabled": true,
+          "items": []
+        }
+      ]
     },
     {
       "id": "1761546453483",
