@@ -8,14 +8,6 @@
       "enabled": true,
       "items": [
         {
-          "id": "site_1761544803195_spz6e4ubr",
-          "title": "主页 - Epic Games",
-          "href": "https://www.epicgames.com/site/zh-CN/home/",
-          "description": "We develop cutting-edge games and cross-platform game engine technology!",
-          "icon": "/assets/favicon_1761544796958.ico",
-          "enabled": true
-        },
-        {
           "id": "site_1761544816072_ptmd70rul",
           "title": "WeGame",
           "href": "https://www.wegame.com.cn/home/",
@@ -209,7 +201,16 @@
           "icon": "LayoutGrid",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "site_1761544803195_spz6e4ubr",
+              "title": "Epic Games",
+              "href": "https://www.epicgames.com/site/zh-CN/home/",
+              "description": "We develop cutting-edge games and cross-platform game engine technology!",
+              "icon": "/assets/favicon_1761544796958.ico",
+              "enabled": true
+            }
+          ]
         }
       ]
     },
