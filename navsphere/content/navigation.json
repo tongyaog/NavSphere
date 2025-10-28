@@ -192,6 +192,14 @@
           "description": "",
           "enabled": true,
           "items": []
+        },
+        {
+          "id": "1be10000-d022-4b85-80b8-15853dfdc4fb",
+          "title": "游戏平台",
+          "icon": "LayoutGrid",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ]
     },
