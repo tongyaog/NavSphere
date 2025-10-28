@@ -8,14 +8,6 @@
       "enabled": true,
       "items": [
         {
-          "id": "site_1761544844916_4jdi4e5q3",
-          "title": "Pixpin",
-          "href": "https://pixpin.cn/",
-          "description": "访问 pixpin.cn",
-          "icon": "/assets/favicon_1761544838127.png",
-          "enabled": true
-        },
-        {
           "id": "site_1761544858786_3oy3yka32",
           "title": "WPS",
           "href": "https://www.wps.cn/",
@@ -110,6 +102,14 @@
               "href": "https://im.qq.com/index/",
               "description": "腾讯QQ，全新版本QQ9上线了！ QQ9，不仅是轻松聊天，更是兴趣社区的聚集地。欢迎下载体验最新版本QQ，体验最新功能！欢迎访问QQ官网，下载新版QQ，了解QQ最新功能就在im.qq.com。",
               "icon": "/assets/img_1761563976078.png",
+              "enabled": true
+            },
+            {
+              "id": "site_1761544844916_4jdi4e5q3",
+              "title": "Pixpin",
+              "href": "https://pixpin.cn/",
+              "description": "访问 pixpin.cn",
+              "icon": "/assets/favicon_1761544838127.png",
               "enabled": true
             }
           ]
