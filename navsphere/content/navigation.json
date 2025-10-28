@@ -8,14 +8,6 @@
       "enabled": true,
       "items": [
         {
-          "id": "site_1761544867709_n51oetmke",
-          "title": "语雀",
-          "href": "https://www.yuque.com/download",
-          "description": "语雀",
-          "icon": "https://mdn.alipayobjects.com/huamei_0prmtq/afts/img/A*9uyGR6gGcI4AAAAAAAAAAAAADvuFAQ/original",
-          "enabled": true
-        },
-        {
           "id": "site_1761544924353_iwgoaoff4",
           "title": "idm",
           "href": "https://www.internetdownloadmanager.com/",
@@ -175,6 +167,14 @@
               "href": "https://www.wps.cn/",
               "description": "金山文档,全新一代云Office办公软件,支持多人在线协同办公,实时协作，并设置文档访问、编辑权限。独有内容级安全，全程留痕可追溯.PC/移动双端覆盖,随时随地在线协同办公,在线文档即写即存统一管理,高效共享文档、表格。",
               "icon": "/assets/favicon_1761544850169.png",
+              "enabled": true
+            },
+            {
+              "id": "site_1761544867709_n51oetmke",
+              "title": "语雀",
+              "href": "https://www.yuque.com/download",
+              "description": "语雀",
+              "icon": "https://mdn.alipayobjects.com/huamei_0prmtq/afts/img/A*9uyGR6gGcI4AAAAAAAAAAAAADvuFAQ/original",
               "enabled": true
             }
           ]
