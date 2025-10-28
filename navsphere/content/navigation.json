@@ -8,14 +8,6 @@
       "enabled": true,
       "items": [
         {
-          "id": "site_1761544986315_1oj3j40nj",
-          "title": "网易云音乐",
-          "href": "https://music.163.com/#/download",
-          "description": "网易云音乐是一款专注于发现与分享的音乐产品，依托专业音乐人、DJ、好友推荐及社交功能，为用户打造全新的音乐生活。",
-          "icon": "/assets/favicon_1761544979214.png",
-          "enabled": true
-        },
-        {
           "id": "site_1761544998804_8de84b3kg",
           "title": "永劫无间",
           "href": "https://www.yjwujian.cn/download/#/",
@@ -62,6 +54,14 @@
               "href": "https://pixpin.cn/",
               "description": "访问 pixpin.cn",
               "icon": "/assets/favicon_1761544838127.png",
+              "enabled": true
+            },
+            {
+              "id": "site_1761544986315_1oj3j40nj",
+              "title": "网易云音乐",
+              "href": "https://music.163.com/#/download",
+              "description": "网易云音乐是一款专注于发现与分享的音乐产品，依托专业音乐人、DJ、好友推荐及社交功能，为用户打造全新的音乐生活。",
+              "icon": "/assets/favicon_1761544979214.png",
               "enabled": true
             }
           ]
