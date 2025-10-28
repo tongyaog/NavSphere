@@ -8,14 +8,6 @@
       "enabled": true,
       "items": [
         {
-          "id": "site_1761544924353_iwgoaoff4",
-          "title": "idm",
-          "href": "https://www.internetdownloadmanager.com/",
-          "description": "下载",
-          "icon": "/assets/favicon_1761544890276.png",
-          "enabled": true
-        },
-        {
           "id": "site_1761544936008_t0v8p49ca",
           "title": "夸克网盘",
           "href": "https://pan.quark.cn/",
@@ -175,6 +167,14 @@
               "href": "https://www.yuque.com/download",
               "description": "语雀",
               "icon": "https://mdn.alipayobjects.com/huamei_0prmtq/afts/img/A*9uyGR6gGcI4AAAAAAAAAAAAADvuFAQ/original",
+              "enabled": true
+            },
+            {
+              "id": "site_1761544924353_iwgoaoff4",
+              "title": "idm",
+              "href": "https://www.internetdownloadmanager.com/",
+              "description": "下载",
+              "icon": "/assets/favicon_1761544890276.png",
               "enabled": true
             }
           ]
