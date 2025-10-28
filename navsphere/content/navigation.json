@@ -200,6 +200,14 @@
           "description": "",
           "enabled": true,
           "items": []
+        },
+        {
+          "id": "5b976d6e-7b74-4c15-84af-7df8c90a1200",
+          "title": "日常工具",
+          "icon": "Briefcase",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ]
     },
