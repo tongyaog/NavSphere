@@ -38,6 +38,14 @@
               "description": "网易云音乐是一款专注于发现与分享的音乐产品，依托专业音乐人、DJ、好友推荐及社交功能，为用户打造全新的音乐生活。",
               "icon": "/assets/favicon_1761544979214.png",
               "enabled": true
+            },
+            {
+              "id": "site_1761629145833_z6qgwfqx1",
+              "title": "Kazumi",
+              "href": "https://github.com/Predidit/Kazumi/releases",
+              "description": "看番",
+              "icon": "https://github.githubassets.com/favicons/favicon",
+              "enabled": true
             }
           ]
         },
