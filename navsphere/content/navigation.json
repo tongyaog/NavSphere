@@ -194,17 +194,17 @@
           "items": []
         },
         {
-          "id": "1be10000-d022-4b85-80b8-15853dfdc4fb",
-          "title": "游戏平台",
-          "icon": "LayoutGrid",
+          "id": "5b976d6e-7b74-4c15-84af-7df8c90a1200",
+          "title": "日常工具",
+          "icon": "Briefcase",
           "description": "",
           "enabled": true,
           "items": []
         },
         {
-          "id": "5b976d6e-7b74-4c15-84af-7df8c90a1200",
-          "title": "日常工具",
-          "icon": "Briefcase",
+          "id": "1be10000-d022-4b85-80b8-15853dfdc4fb",
+          "title": "游戏平台",
+          "icon": "LayoutGrid",
           "description": "",
           "enabled": true,
           "items": []
