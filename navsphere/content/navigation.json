@@ -8,14 +8,6 @@
       "enabled": true,
       "items": [
         {
-          "id": "site_1761544782008_znrzd9hj1",
-          "title": "微信，是一个生活方式",
-          "href": "https://weixin.qq.com/",
-          "description": "一款跨平台的通讯工具。支持单人、多人参与。通过手机网络发送语音、图片、视频和文字。",
-          "icon": "/assets/favicon_1761544773293.png",
-          "enabled": true
-        },
-        {
           "id": "site_1761544795485_t4m169xez",
           "title": "QQ-轻松做自己",
           "href": "https://im.qq.com/index/",
@@ -135,7 +127,16 @@
           "icon": "Home",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "site_1761544782008_znrzd9hj1",
+              "title": "微信，是一个生活方式",
+              "href": "https://weixin.qq.com/",
+              "description": "一款跨平台的通讯工具。支持单人、多人参与。通过手机网络发送语音、图片、视频和文字。",
+              "icon": "/assets/favicon_1761544773293.png",
+              "enabled": true
+            }
+          ]
         },
         {
           "id": "5b976d6e-7b74-4c15-84af-7df8c90a1200",
