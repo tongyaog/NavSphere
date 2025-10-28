@@ -16,14 +16,6 @@
           "enabled": true
         },
         {
-          "id": "site_1761544383679_01efp6xwc",
-          "title": "TRAE",
-          "href": "https://www.trae.ai/",
-          "description": "国际版",
-          "icon": "/assets/favicon_1761544363863.png",
-          "enabled": true
-        },
-        {
           "id": "site_1761544406947_krazf5i2z",
           "title": "Boost Volume and Sound Quality on Your",
           "href": "https://www.fxsound.com/",
@@ -198,6 +190,14 @@
               "href": "https://github.com/chen08209/FlClash/releases",
               "description": "Clash",
               "icon": "/assets/favicon_1761542401766.png",
+              "enabled": true
+            },
+            {
+              "id": "site_1761544383679_01efp6xwc",
+              "title": "TRAE",
+              "href": "https://www.trae.ai/",
+              "description": "国际版",
+              "icon": "/assets/favicon_1761544363863.png",
               "enabled": true
             }
           ]
