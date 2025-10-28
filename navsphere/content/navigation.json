@@ -8,14 +8,6 @@
       "enabled": true,
       "items": [
         {
-          "id": "site_1761544693470_yfhmoegsz",
-          "title": "VMware",
-          "href": "https://support.broadcom.com/group/ecx/productdownloads?subfamily=VMware%20Workstation%20Pro&freeDownloads=true",
-          "description": "VMware",
-          "icon": "/assets/favicon_1761544664002.ico",
-          "enabled": true
-        },
-        {
           "id": "site_1761544717048_2kuleuxxo",
           "title": "Bandizip",
           "href": "https://www.bandisoft.com/bandizip/",
@@ -198,6 +190,14 @@
               "href": "https://www.fxsound.com/",
               "description": "音效",
               "icon": "/assets/favicon_1761544392127.png",
+              "enabled": true
+            },
+            {
+              "id": "site_1761544693470_yfhmoegsz",
+              "title": "VMware",
+              "href": "https://support.broadcom.com/group/ecx/productdownloads?subfamily=VMware%20Workstation%20Pro&freeDownloads=true",
+              "description": "VMware",
+              "icon": "/assets/favicon_1761544664002.ico",
               "enabled": true
             }
           ]
