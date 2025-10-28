@@ -8,14 +8,6 @@
       "enabled": true,
       "items": [
         {
-          "id": "site_1761542416360_i19wjpiet",
-          "title": "FlClash",
-          "href": "https://github.com/chen08209/FlClash/releases",
-          "description": "Clash",
-          "icon": "/assets/favicon_1761542401766.png",
-          "enabled": true
-        },
-        {
           "id": "site_1761543104314_rcgh3v74p",
           "title": "Geek",
           "href": "https://geekuninstaller.com/",
@@ -199,7 +191,16 @@
           "icon": "Briefcase",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "site_1761542416360_i19wjpiet",
+              "title": "FlClash",
+              "href": "https://github.com/chen08209/FlClash/releases",
+              "description": "Clash",
+              "icon": "/assets/favicon_1761542401766.png",
+              "enabled": true
+            }
+          ]
         },
         {
           "id": "1be10000-d022-4b85-80b8-15853dfdc4fb",
