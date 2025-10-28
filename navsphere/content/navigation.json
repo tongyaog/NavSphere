@@ -8,14 +8,6 @@
       "enabled": true,
       "items": [
         {
-          "id": "site_1761544858786_3oy3yka32",
-          "title": "WPS",
-          "href": "https://www.wps.cn/",
-          "description": "金山文档,全新一代云Office办公软件,支持多人在线协同办公,实时协作，并设置文档访问、编辑权限。独有内容级安全，全程留痕可追溯.PC/移动双端覆盖,随时随地在线协同办公,在线文档即写即存统一管理,高效共享文档、表格。",
-          "icon": "/assets/favicon_1761544850169.png",
-          "enabled": true
-        },
-        {
           "id": "site_1761544867709_n51oetmke",
           "title": "语雀",
           "href": "https://www.yuque.com/download",
@@ -175,6 +167,14 @@
               "href": "https://www.asus.com.cn/supportonly/armoury%20crate/helpdesk_download/",
               "description": "Armoury Crate华硕驱动",
               "icon": "/assets/favicon_1761544740224.png",
+              "enabled": true
+            },
+            {
+              "id": "site_1761544858786_3oy3yka32",
+              "title": "WPS",
+              "href": "https://www.wps.cn/",
+              "description": "金山文档,全新一代云Office办公软件,支持多人在线协同办公,实时协作，并设置文档访问、编辑权限。独有内容级安全，全程留痕可追溯.PC/移动双端覆盖,随时随地在线协同办公,在线文档即写即存统一管理,高效共享文档、表格。",
+              "icon": "/assets/favicon_1761544850169.png",
               "enabled": true
             }
           ]
